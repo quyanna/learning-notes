@@ -58,5 +58,6 @@ code, no LLM choosing what comes next. Anthropic's name for that exact shape is
 
 ### To read later, not now
 
-Anthropic, "Building Effective Agents" (2024) — the post this terminology comes
-from. Linked in the course resources (lecture 1 / the repo README).
+Anthropic, "Building Effective AI Agents" —
+https://www.anthropic.com/engineering/building-effective-agents
+The post this terminology comes from. Verified 2026-08-18.
